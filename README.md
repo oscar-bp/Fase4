@@ -25,14 +25,6 @@ aunque ocurran errores.
 > Si un compañero se une antes del **10 de noviembre**, puede tomar un bloque pendiente
 > avisando en el foro. Cuando termines tu bloque, cambia su estado en esta tabla.
 
-### Fechas internas
-- Bloques 1, 2 y 3: hasta el **14 de noviembre**
-- Bloques 4 y 5: hasta el **18 de noviembre**
-- Documento PDF: hasta el **20 de noviembre**
-- Entrega final: **22 de noviembre de 2026**
-
----
-
 ## Estructura del proyecto
 
 ```
