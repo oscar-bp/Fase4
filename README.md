@@ -15,15 +15,23 @@ aunque ocurran errores.
 
 | Bloque | Contenido | Responsable | Estado |
 |---|---|---|---|
-| 1 | Excepciones personalizadas + logger + README | Oscar Antonio Blanco Paredes | ✅ Terminado |
-| 2 | Clase abstracta `Entidad` + clase `Cliente` | Oscar Antonio Blanco Paredes | ✅ Terminado |
-| 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | Oscar Antonio Blanco Paredes | ⏳ Pendiente |
+| 1 | Excepciones personalizadas + logger + README | Oscar Blanco | ✅ Terminado |
+| 2 | Clase abstracta `Entidad` + clase `Cliente` | Oscar Blanco | ✅ Terminado |
+| 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | [Nombre del compañero] | ⏳ Pendiente |
 | 4 | Clase `Reserva` (confirmar, cancelar, procesar) | [Nombre del compañero] | ⏳ Pendiente |
 | 5 | Gestor del sistema + `main.py` con las 10 operaciones | [Nombre del compañero] | ⏳ Pendiente |
 | – | Documento PDF (portada, introducción, enlace, conclusiones, referencias APA) | Ambos | ⏳ Pendiente |
 
 > Si un compañero se une antes del **10 de noviembre**, puede tomar un bloque pendiente
 > avisando en el foro. Cuando termines tu bloque, cambia su estado en esta tabla.
+
+### Fechas internas
+- Bloques 1, 2 y 3: hasta el **14 de noviembre**
+- Bloques 4 y 5: hasta el **18 de noviembre**
+- Documento PDF: hasta el **20 de noviembre**
+- Entrega final: **22 de noviembre de 2026**
+
+---
 
 ## Estructura del proyecto
 
