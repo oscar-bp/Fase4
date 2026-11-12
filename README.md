@@ -19,10 +19,9 @@ aunque ocurran errores.
 | 2 | Clase abstracta `Entidad` + clase `Cliente` | Oscar Blanco | ✅ Terminado |
 | 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | Oscar Blanco | ✅ Terminado |
 | 4 | Clase `Reserva` (confirmar, cancelar, procesar) | Oscar Blanco | ✅ Terminado |
-| 5 | Gestor del sistema + `main.py` con las 10 operaciones | Oscar Blanco | ⏳ Pendiente |
-| – | Documento PDF (portada, introducción, enlace, conclusiones, referencias APA) | Oscar Blanco | ⏳ Pendiente |
+| 5 | Gestor del sistema + `main.py` con las 10 operaciones | Oscar Blanco | ✅ Terminado |
 
-> El plazo para vincularse al trabajo colaborativo venció el **10 de noviembre de 2026** y espere hasta el 12 de noviembre.
+> El plazo para vincularse al trabajo colaborativo venció el **10 de noviembre de 2026** y espere hasta el **12 de noviembre**.
 > Al no reportarse más integrantes, el proyecto se desarrolla de forma individual.
 
 ## Estructura del proyecto
@@ -141,4 +140,4 @@ Después de ejecutar, revisa `logs/eventos.log` para ver los eventos y errores r
 - [x] Clase abstracta `Servicio` y tres servicios especializados
 - [x] Métodos sobrecargados (costo con impuestos, descuentos o parámetros opcionales)
 - [x] Clase `Reserva` con confirmación, cancelación y procesamiento
-- [ ] Simulación de al menos 10 operaciones (válidas e inválidas)
+- [x] Simulación de al menos 10 operaciones (válidas e inválidas)
