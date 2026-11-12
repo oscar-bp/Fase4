@@ -18,7 +18,7 @@ aunque ocurran errores.
 | 1 | Excepciones personalizadas + logger + README | Oscar Blanco | ✅ Terminado |
 | 2 | Clase abstracta `Entidad` + clase `Cliente` | Oscar Blanco | ✅ Terminado |
 | 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | Oscar Blanco | ✅ Terminado |
-| 4 | Clase `Reserva` (confirmar, cancelar, procesar) | Oscar Blanco | ⏳ Pendiente |
+| 4 | Clase `Reserva` (confirmar, cancelar, procesar) | Oscar Blanco | ✅ Terminado |
 | 5 | Gestor del sistema + `main.py` con las 10 operaciones | Oscar Blanco | ⏳ Pendiente |
 | – | Documento PDF (portada, introducción, enlace, conclusiones, referencias APA) | Oscar Blanco | ⏳ Pendiente |
 
@@ -140,5 +140,5 @@ Después de ejecutar, revisa `logs/eventos.log` para ver los eventos y errores r
 - [x] Clase `Cliente` con validaciones y encapsulación
 - [x] Clase abstracta `Servicio` y tres servicios especializados
 - [x] Métodos sobrecargados (costo con impuestos, descuentos o parámetros opcionales)
-- [ ] Clase `Reserva` con confirmación, cancelación y procesamiento
+- [x] Clase `Reserva` con confirmación, cancelación y procesamiento
 - [ ] Simulación de al menos 10 operaciones (válidas e inválidas)
