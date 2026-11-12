@@ -17,13 +17,13 @@ aunque ocurran errores.
 |---|---|---|---|
 | 1 | Excepciones personalizadas + logger + README | Oscar Blanco | ✅ Terminado |
 | 2 | Clase abstracta `Entidad` + clase `Cliente` | Oscar Blanco | ✅ Terminado |
-| 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | [Nombre del compañero] | ⏳ Pendiente |
-| 4 | Clase `Reserva` (confirmar, cancelar, procesar) | [Nombre del compañero] | ⏳ Pendiente |
-| 5 | Gestor del sistema + `main.py` con las 10 operaciones | [Nombre del compañero] | ⏳ Pendiente |
-| – | Documento PDF (portada, introducción, enlace, conclusiones, referencias APA) | Ambos | ⏳ Pendiente |
+| 3 | Clase abstracta `Servicio` + 3 servicios + sobrecarga de costos | Oscar Blanco | ✅ Terminado |
+| 4 | Clase `Reserva` (confirmar, cancelar, procesar) | Oscar Blanco | ⏳ Pendiente |
+| 5 | Gestor del sistema + `main.py` con las 10 operaciones | Oscar Blanco | ⏳ Pendiente |
+| – | Documento PDF (portada, introducción, enlace, conclusiones, referencias APA) | Oscar Blanco | ⏳ Pendiente |
 
-> Si un compañero se une antes del **10 de noviembre**, puede tomar un bloque pendiente
-> avisando en el foro. Cuando termines tu bloque, cambia su estado en esta tabla.
+> El plazo para vincularse al trabajo colaborativo venció el **10 de noviembre de 2026** y espere hasta el 12 de noviembre.
+> Al no reportarse más integrantes, el proyecto se desarrolla de forma individual.
 
 ## Estructura del proyecto
 
@@ -138,7 +138,7 @@ Después de ejecutar, revisa `logs/eventos.log` para ver los eventos y errores r
 - [x] Archivo de logs con eventos y errores
 - [x] Clase abstracta que represente entidades generales
 - [x] Clase `Cliente` con validaciones y encapsulación
-- [ ] Clase abstracta `Servicio` y tres servicios especializados
-- [ ] Métodos sobrecargados (costo con impuestos, descuentos o parámetros opcionales)
+- [x] Clase abstracta `Servicio` y tres servicios especializados
+- [x] Métodos sobrecargados (costo con impuestos, descuentos o parámetros opcionales)
 - [ ] Clase `Reserva` con confirmación, cancelación y procesamiento
 - [ ] Simulación de al menos 10 operaciones (válidas e inválidas)
